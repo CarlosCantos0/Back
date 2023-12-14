@@ -122,11 +122,13 @@ namespace PruebasBackend
             //services.AddSwaggerGen();
             services.AddSwaggerGen(c =>
             {
-                // Utilizar token para autenticar en Swagger
-                c.OperationFilter<SecurityRequirementsOperationFilter>();
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  
+                
+                // Utilizar token para autenticar en Swagger
+Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  c.OperationFilter<SecurityRequirementsOperationFilter>();
                 c.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
                 {
-                    Description = "Autorización Standar, Usar Bearer. Ejemplo \"bearer {token}\"",
+                    Description = "AutorizaciÃ³n Standar, Usar Bearer. Ejemplo \"bearer {token}\"",
                     In = ParameterLocation.Header,
                     Name = "Authorization",
                     Type = SecuritySchemeType.ApiKey,
