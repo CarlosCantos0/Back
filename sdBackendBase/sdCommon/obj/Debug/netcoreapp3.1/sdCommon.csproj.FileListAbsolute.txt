@@ -1,0 +1,28 @@
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.deps.json
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.csproj.AssemblyReference.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.AssemblyInfoInputs.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.AssemblyInfo.cs
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.csproj.CoreCompileInputs.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.deps.json
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.AssemblyInfoInputs.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.AssemblyInfo.cs
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.csproj.CoreCompileInputs.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.csproj.AssemblyReference.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.deps.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\bin\Debug\netcoreapp3.1\sdCommon.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.AssemblyInfoInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.AssemblyInfo.cs
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.csproj.CoreCompileInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Debug\netcoreapp3.1\sdCommon.pdb

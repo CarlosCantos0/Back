@@ -1,0 +1,16 @@
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\PruebasBackendDominio.deps.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\PruebasBackendDominio.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\PruebasBackendDominio.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\PruebasBackendModelo.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\sdCommon.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\sdDomain.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\sdDomain.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Release\netcoreapp3.1\sdCommon.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Release\netcoreapp3.1\PruebasBackendDominio.csproj.AssemblyReference.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Release\netcoreapp3.1\PruebasBackendDominio.AssemblyInfoInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Release\netcoreapp3.1\PruebasBackendDominio.AssemblyInfo.cs
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Release\netcoreapp3.1\PruebasBackendDominio.csproj.CoreCompileInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Release\netcoreapp3.1\PruebasBackendDominio.csproj.CopyComplete
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Release\netcoreapp3.1\PruebasBackendDominio.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Release\netcoreapp3.1\PruebasBackendDominio.pdb

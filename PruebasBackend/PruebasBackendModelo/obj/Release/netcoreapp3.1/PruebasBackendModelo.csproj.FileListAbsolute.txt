@@ -1,0 +1,12 @@
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Release\netcoreapp3.1\PruebasBackendModelo.deps.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Release\netcoreapp3.1\PruebasBackendModelo.runtimeconfig.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Release\netcoreapp3.1\PruebasBackendModelo.runtimeconfig.dev.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Release\netcoreapp3.1\PruebasBackendModelo.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Release\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Release\netcoreapp3.1\PruebasBackendModelo.csproj.AssemblyReference.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Release\netcoreapp3.1\PruebasBackendModelo.AssemblyInfoInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Release\netcoreapp3.1\PruebasBackendModelo.AssemblyInfo.cs
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Release\netcoreapp3.1\PruebasBackendModelo.csproj.CoreCompileInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Release\netcoreapp3.1\PruebasBackendModelo.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Release\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Release\netcoreapp3.1\PruebasBackendModelo.genruntimeconfig.cache

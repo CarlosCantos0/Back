@@ -1,0 +1,9 @@
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\bin\Release\netcoreapp3.1\sdCommon.deps.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\bin\Release\netcoreapp3.1\sdCommon.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\bin\Release\netcoreapp3.1\sdCommon.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Release\netcoreapp3.1\sdCommon.csproj.AssemblyReference.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Release\netcoreapp3.1\sdCommon.AssemblyInfoInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Release\netcoreapp3.1\sdCommon.AssemblyInfo.cs
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Release\netcoreapp3.1\sdCommon.csproj.CoreCompileInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Release\netcoreapp3.1\sdCommon.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\sdBackendBase\sdCommon\obj\Release\netcoreapp3.1\sdCommon.pdb

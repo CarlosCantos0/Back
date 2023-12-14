@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "n8NA/mpaHRA/CT33zeQOQildAvIfoUAhIqFVbKEKpQhbrYSVmhht304OdIua9BY6zJEfrMjlRwTJI9gQPoyYnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Git\\PruebasBackend\\PruebasBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512",
+    "C:\\Users\\Juanjo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,462 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendServicios\\PruebasBackendServicios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendDominio\\PruebasBackendDominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendDominio\\PruebasBackendDominio.csproj",
+        "projectName": "PruebasBackendDominio",
+        "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendDominio\\PruebasBackendDominio.csproj",
+        "packagesPath": "C:\\Users\\Krl's\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendDominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krl's\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendModelo\\PruebasBackendModelo.csproj": {
+                "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendModelo\\PruebasBackendModelo.csproj"
+              },
+              "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdDomain\\sdDomain.csproj": {
+                "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdDomain\\sdDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendModelo\\PruebasBackendModelo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendModelo\\PruebasBackendModelo.csproj",
+        "projectName": "PruebasBackendModelo",
+        "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendModelo\\PruebasBackendModelo.csproj",
+        "packagesPath": "C:\\Users\\Krl's\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendModelo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krl's\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendServicios\\PruebasBackendServicios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendServicios\\PruebasBackendServicios.csproj",
+        "projectName": "PruebasBackendServicios",
+        "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendServicios\\PruebasBackendServicios.csproj",
+        "packagesPath": "C:\\Users\\Krl's\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendServicios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krl's\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendDominio\\PruebasBackendDominio.csproj": {
+                "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\PruebasBackend\\PruebasBackendDominio\\PruebasBackendDominio.csproj"
+              },
+              "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdController\\sdController.csproj": {
+                "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdController\\sdController.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdCommon\\sdCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdCommon\\sdCommon.csproj",
+        "projectName": "sdCommon",
+        "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdCommon\\sdCommon.csproj",
+        "packagesPath": "C:\\Users\\Krl's\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krl's\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdController\\sdController.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdController\\sdController.csproj",
+        "projectName": "sdController",
+        "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdController\\sdController.csproj",
+        "packagesPath": "C:\\Users\\Krl's\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdController\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krl's\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdDomain\\sdDomain.csproj": {
+                "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdDomain\\sdDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdDomain\\sdDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdDomain\\sdDomain.csproj",
+        "projectName": "sdDomain",
+        "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdDomain\\sdDomain.csproj",
+        "packagesPath": "C:\\Users\\Krl's\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Krl's\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdCommon\\sdCommon.csproj": {
+                "projectPath": "C:\\Users\\Krl's\\Desktop\\proyecto 2\\Backend Original\\sdBackendBase\\sdCommon\\sdCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

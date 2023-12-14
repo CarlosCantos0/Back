@@ -1,0 +1,290 @@
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.StaticWebAssets.xml
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.exe
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.deps.json
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.runtimeconfig.json
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.runtimeconfig.dev.json
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdCommon.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdController.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdDomain.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdController.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdCommon.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdDomain.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.AssemblyReference.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.AssemblyInfoInputs.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.AssemblyInfo.cs
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.CoreCompileInputs.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.MvcApplicationPartsAssemblyInfo.cs
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.MvcApplicationPartsAssemblyInfo.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\staticwebassets\PruebasBackendServicios.StaticWebAssets.Manifest.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\staticwebassets\PruebasBackendServicios.StaticWebAssets.xml
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\scopedcss\bundle\PruebasBackendServicios.styles.css
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.RazorTargetAssemblyInfo.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.CopyComplete
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.genruntimeconfig.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.AssemblyReference.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.AssemblyInfoInputs.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.AssemblyInfo.cs
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.CoreCompileInputs.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.MvcApplicationPartsAssemblyInfo.cs
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.MvcApplicationPartsAssemblyInfo.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.StaticWebAssets.xml
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.exe
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.deps.json
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.runtimeconfig.json
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.runtimeconfig.dev.json
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Scrutor.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdCommon.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdController.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdDomain.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdController.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdCommon.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdDomain.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\staticwebassets\PruebasBackendServicios.StaticWebAssets.Manifest.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\staticwebassets\PruebasBackendServicios.StaticWebAssets.xml
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\scopedcss\bundle\PruebasBackendServicios.styles.css
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.RazorTargetAssemblyInfo.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.CopyComplete
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.genruntimeconfig.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.StaticWebAssets.xml
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.exe
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.deps.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.runtimeconfig.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.runtimeconfig.dev.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendServicios.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdCommon.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdController.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdDomain.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdController.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdCommon.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\sdDomain.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.AssemblyReference.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.AssemblyInfoInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.AssemblyInfo.cs
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.CoreCompileInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.RazorTargetAssemblyInfo.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.csproj.CopyComplete
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\staticwebassets\PruebasBackendServicios.StaticWebAssets.Manifest.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\staticwebassets\PruebasBackendServicios.StaticWebAssets.xml
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\obj\Debug\netcoreapp3.1\PruebasBackendServicios.genruntimeconfig.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\gestorsvg - Zip Deploy\profile.arm.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendServicios\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\gestorsvg\profile.arm.json

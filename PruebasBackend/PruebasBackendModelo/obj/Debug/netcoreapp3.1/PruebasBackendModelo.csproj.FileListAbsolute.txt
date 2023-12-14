@@ -1,0 +1,31 @@
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.deps.json
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.csproj.AssemblyReference.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.AssemblyInfoInputs.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.AssemblyInfo.cs
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.csproj.CoreCompileInputs.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.deps.json
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.csproj.AssemblyReference.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.AssemblyInfoInputs.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.AssemblyInfo.cs
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.csproj.CoreCompileInputs.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.deps.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.AssemblyInfoInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.AssemblyInfo.cs
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.csproj.CoreCompileInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.runtimeconfig.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\bin\Debug\netcoreapp3.1\PruebasBackendModelo.runtimeconfig.dev.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendModelo\obj\Debug\netcoreapp3.1\PruebasBackendModelo.genruntimeconfig.cache

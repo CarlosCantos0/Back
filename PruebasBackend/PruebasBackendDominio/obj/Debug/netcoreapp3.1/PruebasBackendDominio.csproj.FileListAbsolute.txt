@@ -1,0 +1,49 @@
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.deps.json
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdCommon.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdDomain.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdDomain.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdCommon.pdb
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.csproj.AssemblyReference.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.AssemblyInfoInputs.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.AssemblyInfo.cs
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.csproj.CoreCompileInputs.cache
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+C:\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.deps.json
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdCommon.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdDomain.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdDomain.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdCommon.pdb
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.csproj.AssemblyReference.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.AssemblyInfoInputs.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.AssemblyInfo.cs
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.csproj.CoreCompileInputs.cache
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.csproj.CopyComplete
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+D:\Trabajo\AplicacionesWebAngular\sdBackend_Base_20220511\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.deps.json
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendModelo.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdCommon.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdDomain.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdDomain.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\PruebasBackendModelo.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\bin\Debug\netcoreapp3.1\sdCommon.pdb
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.csproj.AssemblyReference.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.AssemblyInfoInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.AssemblyInfo.cs
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.csproj.CoreCompileInputs.cache
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.csproj.CopyComplete
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.dll
+C:\Users\Krl's\Desktop\proyecto 2\Backend Original\PruebasBackend\PruebasBackendDominio\obj\Debug\netcoreapp3.1\PruebasBackendDominio.pdb
