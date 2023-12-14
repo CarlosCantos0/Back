@@ -14,13 +14,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
 
-      - name: Set up .NET Core
+      - name: Set up .NET Core 3.1
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: 'dotnetcore | 1.2.3'
-          include-prerelease: true
+          dotnet-version: 3.1
 
       - name: Build with dotnet
         run: dotnet build --configuration Release
@@ -54,4 +53,4 @@ jobs:
           app-name: 'gestorsvg'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BAA90DF0A3A4D4E9C96163D01C849E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09CB70DB6BD044C3B6AD9A9191F9E58D }}
