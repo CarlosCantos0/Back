@@ -22,7 +22,7 @@ jobs:
           dotnet-version: 3.1
 
       - name: Build with dotnet
-        run: dotnet build --configuration Release --solution ./Back/PruebasBackend/PruebasBackend.sln
+        run: dotnet build --configuration Release ./Back/PruebasBackend/PruebasBackend.sln
 
       - name: dotnet publish
         run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
