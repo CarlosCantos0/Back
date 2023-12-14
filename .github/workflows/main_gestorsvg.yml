@@ -30,11 +30,6 @@ jobs:
       - name: dotnet publish
         run: dotnet publish ./PruebasBackend/PruebasBackendServicios/PruebasBackendServicios.csproj -c Release -o /home/runner/.dotnet/myapp
 
-      - name: dotnet install ef
-        run: dotnet tool install -g dotnet-ef
-
-      - name: dotnet bundle migration
-        run: dotnet ef migration bundle --runtime linux-x64 DotNetCoreSqlDb/DotNetCoreSqlDb.csproj -o \${{env.DOTNET_ROOT}}/myapp/migrate
 
 
       - name: Upload artifact for deployment job
