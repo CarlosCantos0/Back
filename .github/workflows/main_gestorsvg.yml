@@ -24,8 +24,6 @@ jobs:
       - name: Build with dotnet
         run: dotnet build --configuration Release ./PruebasBackend/PruebasBackend.sln
       
-      - name: Change to project directory
-        run: cd ./PruebasBackend
 
       - name: dotnet publish
         run: dotnet publish ./PruebasBackend/PruebasBackend.csproj -c Release -o ./PruebasBackend
