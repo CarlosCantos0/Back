@@ -19,7 +19,7 @@ jobs:
       - name: Set up .NET Core 3.1
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: 8
+          dotnet-version: 3.1
 
       - name: Build with dotnet
         run: dotnet build --configuration Release ./PruebasBackend/PruebasBackend.sln
@@ -34,7 +34,7 @@ jobs:
         run: dotnet tool install -g dotnet-ef
 
       - name: dotnet bundle migration
-        run: dotnet ef migration bundle --runtime linux-x64 -p DotNetCoreSqlDb/DotNetCoreSqlDb.csproj -o \${{env.DOTNET_ROOT}}/myapp/migrate
+        run: dotnet ef migration bundle --runtime linux-x64 DotNetCoreSqlDb/DotNetCoreSqlDb.csproj -o \${{env.DOTNET_ROOT}}/myapp/migrate
 
 
       - name: Upload artifact for deployment job
