@@ -28,7 +28,7 @@ jobs:
         run: cd ./PruebasBackend
 
       - name: dotnet publish
-        run: dotnet publish -c Release -o /home/runner/.dotnet/myapp
+        run: dotnet publish ./PruebasBackend/PruebasBackend.csproj -c Release -o /home/runner/.dotnet/myapp
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
