@@ -24,9 +24,8 @@ jobs:
       - name: Build with dotnet
         run: dotnet build --configuration Release ./PruebasBackend/PruebasBackend.sln
       
-
       - name: dotnet publish
-        run: dotnet publish ./PruebasBackend/PruebasBackend.csproj -c Release -o ./PruebasBackend
+        run: dotnet publish -c Release -o ./PruebasBackend
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
